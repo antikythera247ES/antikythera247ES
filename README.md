@@ -1,9 +1,21 @@
-As Albert Einstein once said:
-> Creativity is intelligence having fun.
+_A newb who's recently interested in the glorious world of Big Data & coding. I heard GitHub is one of the best places to jot-down codes ..._
+_And so, here I am_ 💃✨
+- 🌱 Currently learning **SQL**
+- 👀 Interested in **Data Science**
 
-_Well, I'm here to explore & get funky with coding!_ 💃✨
-- 🌱 I’m currently learning **SQL**
-- 👀 I’m interested in **Computer Science**
+
+Having worked in different industries, pulling and analysing different kinds of data- This quote from Ronald van Loon rings very true 💯  
+> Data and data science greatly influence everything we do…The impact that data has and will have…continues to grow every day.
+
+
+Other fav' quotes:
+From Jon Acuff - Explains the models that we built today or in the past, finding connections between them allows us to predict future events/outcomes to better prepare ourselves. 
+> That’s all data is. A gift from yesterday that you receive today to make tomorrow better
+
+
+From Vik Paruchuri (Founder of Dataquest) - Highlights the tumultuous journey of a Data Scientist and in order to succeed by having a combo of high motivation levels, clear objectives, and help from an excellent mentor.
+> Nobody ever talks about motivation in learning. Data science is a broad and fuzzy field, which makes it hard to learn. Really hard. ... Without motivation, you’ll stop halfway through and believe you can’t do it when the fault isn’t with you―it’s with the teaching. Take control of your learning by tailoring it to what you want to do, not the other way around.
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
